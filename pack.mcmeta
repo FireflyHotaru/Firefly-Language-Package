@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "supported_formats": [0, 64],
+    "min_format": 0,
+    "max_format": 2147483647,
+    "description": "§2By §6Firefly"
+  }
+}
